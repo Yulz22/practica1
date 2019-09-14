@@ -3,3 +3,6 @@ este es el segundo commit
 este es el tercer commit
 este es el cuarto commit
 este es el quinto commit
+editado en branch2
+editado en branch1
+ 
